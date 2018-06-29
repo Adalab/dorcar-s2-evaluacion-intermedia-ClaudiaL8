@@ -1,0 +1,38 @@
+.pag__body{
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.pag__header{
+}
+.header__title{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.pag__body{
+    position: relative;
+}
+.main__contador{
+    display: flex;
+    align-self: flex-end;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+}
+.form__label{
+    display: block;
+    margin-bottom: 20px;
+}
+.form__input{
+    margin-bottom: 20px;
+}
+.form__buttom{
+    width:181px;
+}
+.footer__parrafo{
+    width: 100%;
+    border: solid 1px blue;
+    color: blue;
+    margin-top: 100px;
+}
