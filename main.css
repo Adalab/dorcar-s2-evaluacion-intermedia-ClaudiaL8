@@ -17,8 +17,12 @@
     display: flex;
     align-self: flex-end;
     position: absolute;
+    top: 0;
+    left: 80%;
     width: 30px;
     height: 30px;
+    color: red;
+    font-size: 70px;
 }
 .form__label{
     display: block;
