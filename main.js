@@ -22,7 +22,7 @@ function click() {
         parrafo.innerHTML = "¡HAS GANADO, CAMPEONA!";
     } else if (alazar > userNumber){
         parrafo.innerHTML = "¡Te has quedado corto!";
-    } else (alazar < userNumber){
+    } else{
         parrafo.innerHTML = "¡Te has pasado!";
     }
     }
